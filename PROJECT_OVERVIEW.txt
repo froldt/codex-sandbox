@@ -1,0 +1,19 @@
+PROJECT OVERVIEW
+================
+
+Purpose
+- Document the rules and mechanics for a simple two-dice game.
+
+Core Concept
+- The player picks a target number (2–12).
+- Two six-sided dice are rolled each round.
+- The player wins if the sum equals the target.
+
+Key Files
+- README.md: Full explanation of the dice game mechanism, probabilities, and example play.
+- PROJECT_OVERVIEW.txt: This outline.
+
+Potential Extensions
+- Add scoring for consecutive wins.
+- Offer payout multipliers based on target odds.
+- Provide a CLI or web UI to simulate rounds.
